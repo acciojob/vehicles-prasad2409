@@ -32,7 +32,4 @@ public class Boat implements WaterVehicle{
         return capacity;
     }
 
-    public void setCapacity(int capacity) {
-        this.capacity = capacity;
-    }
 }
